@@ -4,12 +4,12 @@
     
 }
 div {
-    border: 5px gray solid;
+    border: 10px gray solid;
     width: 10rem; 
     height:30rem;
     margin:1rem auto;
     padding:0.5rem;
-    box-shadow: 1rem,0.9rem,0.5,1rem gray;
+    box-shadow: 0.5rem 0.45rem 0.25rem rem;
 }
 img {
     width: 9.5rem;
@@ -24,12 +24,12 @@ p{
     width:10rem;
     height:1rem;
     margin:1rem auto;
-    font-size: 10px;
+    font-size: 14px;
 }
 center{
     color:blue;
 }
 button{
     height:2rem;
-    margin:1rem auto;
+    margin: 1rem auto;
 }
